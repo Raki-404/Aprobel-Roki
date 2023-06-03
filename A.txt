@@ -8,3 +8,4 @@ Its-ROKI1→0→4→8→2→u→0→_→a→4→8→2u0_a482
 Its-ROKI1→0→6→0→0→u→0→_→a→6→0→0u0_a600
 Its-ROKI1→0→1→6→4→u→0→_→a→1→6→4u0_a164
 Its-ROKI1→0→2→5→0→u→0→_→a→2→5→0u0_a250
+CLASS3-Tutul982279b5c746MALS
